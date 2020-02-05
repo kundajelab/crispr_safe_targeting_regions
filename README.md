@@ -7,4 +7,4 @@ We recommend prioritizing safe targeting regions that are greater than 2 kb in l
 
 **Quick start**
 
-For simplicity, we also provide bed files of the above-mentioned safe targeting regions at [http://mitra.stanford.edu/kundaje/oursu/safe_targeting/](http://mitra.stanford.edu/kundaje/oursu/safe_targeting/)
+For simplicity, we also provide bed files of the above-mentioned safe targeting regions at crispr_safe_targeting_regions/bed
